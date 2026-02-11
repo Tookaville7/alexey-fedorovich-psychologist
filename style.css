@@ -1,0 +1,27 @@
+.container {
+  background-color: white;
+  color: purple;
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  background-color: purple;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.button {
+  background-color: purple;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: white;
+  color: purple;
+  border: 1px solid purple;
+}
